@@ -1,2 +1,2 @@
-# google_img_crawler
-Crawler that can collect high resolution image from google based on scrapy
+# google-image-crawler
+Crawler that collects image search result from google based on scrapy.
