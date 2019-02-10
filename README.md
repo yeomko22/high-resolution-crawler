@@ -1,5 +1,5 @@
 ## High Resolution Crawler
-Collects high resolution images(not thumbnails) from google and naver.
+Collects high resolution images(not thumbnails) from google and naver.  
 All source code is based on scrapy framework.
 
 ## Currently Supporting Web sites
