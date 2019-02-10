@@ -6,7 +6,7 @@ All source code is based on scrapy framework.
 - google
 - naver
 
-![intro](./assets/google.png)  
+![intro](./assets/intro.png)  
 ## Install
 `pip install -r requirements.txt`
 
